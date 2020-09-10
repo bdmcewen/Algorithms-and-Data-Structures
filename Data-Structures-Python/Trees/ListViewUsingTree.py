@@ -1,5 +1,3 @@
-# Author: Parameswaran
-
 # sample object
 class Sample:
     def __init__(self, data_description, node_id, parent_id=""):

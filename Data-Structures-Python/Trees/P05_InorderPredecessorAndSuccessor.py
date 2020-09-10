@@ -1,7 +1,3 @@
-# Author: OMKAR PATHAK
-
-# Input: root node, key
-#
 # Output: predecessor node, successor node
 # 1. If root is NULL
 #       then return

@@ -1,5 +1,3 @@
-# Author: OMKAR PATHAK
-
 # leaf node is the one which does not have any children
 
 from Tree import Node

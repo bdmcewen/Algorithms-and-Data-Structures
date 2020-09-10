@@ -1,5 +1,3 @@
-# Author: OMKAR PATHAK
-
 class Node(object):
     def __init__(self, data = None):
         self.leftChild = None

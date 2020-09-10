@@ -1,5 +1,3 @@
-# Author: OMKAR PATHAK
-
 # This program illustrates an example of Binary Search Tree using Python
 # Binary Search Tree, is a node-based binary tree data structure which has the following properties:
 #
