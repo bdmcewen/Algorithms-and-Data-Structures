@@ -149,8 +149,8 @@ public class QuickSort {
     hoareQuickSort(arr, 0, arr.length - 1);
   }
 
-  public static void randomisedQuickSort(int[] arr) {
-    Randomise.randomise(arr);
+  public static void randomizedQuickSort(int[] arr) {
+    Randomize.randomize(arr);
     quickSort(arr);
   }
 

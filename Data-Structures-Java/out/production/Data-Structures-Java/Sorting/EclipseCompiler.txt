@@ -1,0 +1,128 @@
+29 Sep 2019 20:33:33 GMT: Log 'EclipseCompiler.txt' opened: 29 Sep 2019 20:33:33 GMT with name D:\Git\personal\algorithms-java\src\Sorting\EclipseCompiler.txt
+30 Sep 2019 9:30:18 GMT: Log 'EclipseCompiler.txt' opened: 30 Sep 2019 9:30:18 GMT with name D:\Git\personal\algorithms-java\src\Sorting\EclipseCompiler.txt
+30 Sep 2019 9:36:15 GMT: diagnostics = javax.tools.DiagnosticCollector@1a4ee08
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@106078a
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:36:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a43b1a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:36:17 GMT: Compiler call returned
+30 Sep 2019 9:36:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@542852
+30 Sep 2019 9:36:17 GMT:  Kind = ERROR
+30 Sep 2019 9:36:17 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java LineNo = 37 ColNo = 46 Msg = 'testData cannot be resolved to a variable'
+30 Sep 2019 9:36:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c0e65
+30 Sep 2019 9:36:17 GMT:  Kind = ERROR
+30 Sep 2019 9:36:17 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java LineNo = 64 ColNo = 42 Msg = 'testData cannot be resolved to a variable'
+30 Sep 2019 9:36:41 GMT: diagnostics = javax.tools.DiagnosticCollector@113d867
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@56d0e7
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:36:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e21cec' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:36:41 GMT: Compiler call returned
+30 Sep 2019 9:37:30 GMT: diagnostics = javax.tools.DiagnosticCollector@1b7242
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cd43b8
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:37:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7de656' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:37:30 GMT: Compiler call returned
+30 Sep 2019 9:37:59 GMT: diagnostics = javax.tools.DiagnosticCollector@1ab6dbe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ae24ff
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:37:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@108bf47' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:37:59 GMT: Compiler call returned
+30 Sep 2019 9:45:43 GMT: diagnostics = javax.tools.DiagnosticCollector@145c124
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b57cd9
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:45:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@68eb41' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:45:43 GMT: Compiler call returned
+30 Sep 2019 9:45:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1e77e
+30 Sep 2019 9:45:43 GMT:  Kind = ERROR
+30 Sep 2019 9:45:43 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java LineNo = 61 ColNo = 37 Msg = 'The method toString(long[]) in the type java.util.Arrays is not applicable for the arguments (int, int)'
+30 Sep 2019 9:46:42 GMT: diagnostics = javax.tools.DiagnosticCollector@b24d2b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fa768b
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:46:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e7b3d8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:46:42 GMT: Compiler call returned
+30 Sep 2019 9:46:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a43c75
+30 Sep 2019 9:46:42 GMT:  Kind = ERROR
+30 Sep 2019 9:46:42 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java LineNo = 61 ColNo = 52 Msg = 'Syntax error, insert ")" to complete Expression'
+30 Sep 2019 9:47:04 GMT: diagnostics = javax.tools.DiagnosticCollector@206281
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3fb9ea
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:47:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f0390d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:47:04 GMT: Compiler call returned
+30 Sep 2019 9:47:20 GMT: diagnostics = javax.tools.DiagnosticCollector@f46cf6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4c1d04
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:47:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12c4abe' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:47:20 GMT: Compiler call returned
+30 Sep 2019 9:47:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a6ab51
+30 Sep 2019 9:47:20 GMT:  Kind = ERROR
+30 Sep 2019 9:47:20 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java LineNo = 61 ColNo = 22 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (int, int)'
+30 Sep 2019 9:47:47 GMT: diagnostics = javax.tools.DiagnosticCollector@829e86
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15ad7a5
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:47:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ead924' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:47:47 GMT: Compiler call returned
+30 Sep 2019 9:48:08 GMT: diagnostics = javax.tools.DiagnosticCollector@18d2d52
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f366ff
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:48:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@198d602' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:48:08 GMT: Compiler call returned
+30 Sep 2019 9:48:57 GMT: diagnostics = javax.tools.DiagnosticCollector@cc808a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d2fa2
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:48:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fd161c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:48:58 GMT: Compiler call returned
+30 Sep 2019 9:49:51 GMT: diagnostics = javax.tools.DiagnosticCollector@10a69c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e3e6db
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:49:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@47d8f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:49:51 GMT: Compiler call returned
+30 Sep 2019 9:49:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@113a0b7
+30 Sep 2019 9:49:51 GMT:  Kind = ERROR
+30 Sep 2019 9:49:51 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java LineNo = 56 ColNo = 35 Msg = 'Syntax error on token "Arrays", delete this token'
+30 Sep 2019 9:49:56 GMT: diagnostics = javax.tools.DiagnosticCollector@5a81e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@548b5f
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java, D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+30 Sep 2019 9:49:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cfd98a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:49:56 GMT: Compiler call returned
+30 Sep 2019 9:51:54 GMT: diagnostics = javax.tools.DiagnosticCollector@19ed87a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a21e9e
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java, D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java]
+30 Sep 2019 9:51:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e8983f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:51:54 GMT: Compiler call returned
+30 Sep 2019 9:51:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10850e5
+30 Sep 2019 9:51:54 GMT:  Kind = ERROR
+30 Sep 2019 9:51:54 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java LineNo = 8 ColNo = 37 Msg = 'Arrays cannot be resolved'
+30 Sep 2019 9:51:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc69ac
+30 Sep 2019 9:51:54 GMT:  Kind = ERROR
+30 Sep 2019 9:51:54 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java LineNo = 8 ColNo = 53 Msg = 'arr cannot be resolved to a variable'
+30 Sep 2019 9:52:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1e29c34
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3ac135
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java, D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java]
+30 Sep 2019 9:52:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bd5fa9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:52:05 GMT: Compiler call returned
+30 Sep 2019 9:52:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8c7872
+30 Sep 2019 9:52:05 GMT:  Kind = ERROR
+30 Sep 2019 9:52:05 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java LineNo = 8 ColNo = 37 Msg = 'Arrays cannot be resolved'
+30 Sep 2019 9:52:07 GMT: diagnostics = javax.tools.DiagnosticCollector@1f6cb97
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e7eaaf
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java, D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java]
+30 Sep 2019 9:52:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3afdae' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:52:07 GMT: Compiler call returned
+30 Sep 2019 9:52:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c9ba12
+30 Sep 2019 9:52:07 GMT:  Kind = ERROR
+30 Sep 2019 9:52:07 GMT: Name = D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java LineNo = 8 ColNo = 37 Msg = 'Arrays cannot be resolved'
+30 Sep 2019 9:52:50 GMT: diagnostics = javax.tools.DiagnosticCollector@8cd897
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bc4571
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java, D:\Git\personal\algorithms-java\src\Sorting\SelectionSort.java]
+30 Sep 2019 9:52:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d26941' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+30 Sep 2019 9:52:50 GMT: Compiler call returned
+11 Oct 2019 16:40:45 GMT: Log 'EclipseCompiler.txt' opened: 11 Oct 2019 16:40:45 GMT with name D:\Git\personal\algorithms-java\src\Sorting\EclipseCompiler.txt
+11 Oct 2019 16:41:06 GMT: diagnostics = javax.tools.DiagnosticCollector@161829
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@100da83
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+11 Oct 2019 16:41:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1914fe3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+11 Oct 2019 16:41:08 GMT: Compiler call returned
+11 Oct 2019 16:41:40 GMT: diagnostics = javax.tools.DiagnosticCollector@ee960b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4aca09
+fileObjects = [D:\Git\personal\algorithms-java\src\Sorting\BubbleSort.java]
+11 Oct 2019 16:41:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19b4f76' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\Git\personal\algorithms-java\src;D:\drjava-beta-20160913-225446.exe]
+11 Oct 2019 16:41:40 GMT: Compiler call returned

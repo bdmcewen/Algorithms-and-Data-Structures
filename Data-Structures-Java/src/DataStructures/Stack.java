@@ -33,7 +33,7 @@ public class Stack<T> {
 	}
 	
 	public static void main(String[] args) {
-		Stack<Integer> c = new Stack<>(1);
+		Stack<Integer> c = new DataStructures.Stack<Integer>(1);
 		c.push(4);
 		System.out.println(c.pop());
 		System.out.println(c.pop());

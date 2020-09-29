@@ -2,9 +2,10 @@ package DataStructures;
 
 import java.util.NoSuchElementException;
 
+
 public class ArrayList<T> implements List<T> {
-  private T[] data;
-  private int length = 0;
+  T[] data;
+  int length = 0;
 
   @SuppressWarnings("unchecked")
   public ArrayList() {

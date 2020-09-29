@@ -1,10 +1,9 @@
 package DataStructures;
 
 import java.util.NoSuchElementException;
-import java.util.Iterator;
 
 public class BinarySearchTree<A extends Comparable<A>, B> {
-  private static class Node<A extends Comparable<A>, B> {
+  static class Node<A extends Comparable<A>, B> {
     A key;
     B value;
     Node<A, B> left;

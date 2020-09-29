@@ -4,8 +4,8 @@ package DataStructures;
  * Package-level access was deliberate.
  */
 class LinkedListNode<T> {
-  private final T item;
-  private LinkedListNode<T> next;
+  final T item;
+  LinkedListNode<T> next;
 
   public LinkedListNode(T item) {
     this.item = item;

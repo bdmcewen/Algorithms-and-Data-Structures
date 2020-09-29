@@ -8,7 +8,7 @@ public class RedBlackTree<A extends Comparable<A>, B> {
     BLACK
   }
 
-  private static class Node<A extends Comparable<A>, B> {
+  static class Node<A extends Comparable<A>, B> {
     A key;
     B value;
     Node<A, B> left;

@@ -1,6 +1,8 @@
-import java.util.Arrays;
+
 
 import Matrix.Matrix;
+
+import java.util.Arrays;
 
 public class MatrixChainMultiplication {
 	public static void main(String[] args) {

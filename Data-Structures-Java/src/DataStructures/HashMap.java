@@ -3,7 +3,7 @@ package DataStructures;
 import java.util.LinkedList;
 
 public class HashMap<A, B> {
-  private static class Node<A, B> {
+  static class Node<A, B> {
     A key;
     B value;
 
